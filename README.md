@@ -1,12 +1,35 @@
-# React + Vite
+# 🔐 Login / Signup Toggle App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and elegant **React.js authentication interface** that allows users to toggle between **Login** and **Signup** forms seamlessly — built using the power of React Hooks (`useState`).  
+Perfect as a starter template for any authentication-based project.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+👉 **[View Live on Vercel](https://login-signup-toggle-app.vercel.app/)**  
+*(You can deploy easily on Vercel, Netlify, or GitHub Pages.)*
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🖼️ Preview
+
+![App Preview](./public/bg.png)
+
+*(💡 Tip: Add a screenshot of your app in the repo root as `preview.png` so it appears above.)*
+
+---
+
+## ✨ Features
+
+- 🔄 Toggle between **Login** and **Signup** forms using React state  
+- 🧠 Built with React Hooks (`useState`)  
+- 🎨 Simple and modern UI with inline styling  
+- 🧱 Component-based clean structure (`Login`, `Signup`, `App`)  
+- ⚡ No page reload — smooth transitions  
+- 🪄 Easy to expand with backend (Node.js / Firebase)
+
+---
+
+## 📁 Folder Structure
+

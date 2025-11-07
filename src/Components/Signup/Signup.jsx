@@ -34,7 +34,7 @@ function Signup({ toggleForm }) {
             <button type="submit" className="btn">Sign Up</button>
 
             <div className="logreg-link">
-              <p>
+              <p style={{color:"#fff"}}>
                 Don't have an account? <a href="#">Login</a>
               </p>
             </div>

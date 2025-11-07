@@ -37,7 +37,7 @@ Perfect as a starter template for any authentication-based project.
 
 ## 🚀 Live Demo
 
-👉 **[View Live on Vercel](https://login-signup-toggle-app.vercel.app/)**  
+👉 **[View Live on Vercelhttps://login-signup-toggle-app.vercel.app/]**  
 
 ---
 

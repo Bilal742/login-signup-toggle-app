@@ -38,7 +38,6 @@ Perfect as a starter template for any authentication-based project.
 ## 🚀 Live Demo
 
 👉 **[View Live on Vercel](https://login-signup-toggle-app.vercel.app/)**  
-*(You can deploy easily on Vercel, Netlify, or GitHub Pages.)*
 
 ---
 
@@ -76,7 +75,7 @@ Perfect as a starter template for any authentication-based project.
 ```
 ---
 
-## 💡 How to Run Locally
+## ⚙️ Setup Instructions
 
 1. **Clone the Repository:**
    ```bash
@@ -84,8 +83,9 @@ Perfect as a starter template for any authentication-based project.
 2. **Install Dependencies:**
    ```bash
    npm install
+3. **Run Locally:**
+   ```bash
    npm run dev
-   ```
 ---
 
 ## 👨‍💻 Developer

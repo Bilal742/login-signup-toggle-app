@@ -5,10 +5,25 @@ Perfect as a starter template for any authentication-based project.
 
 ---
 
-## 🚀 Live Demo
+## ✨ Features
 
-👉 **[View Live on Vercel](https://login-signup-toggle-app.vercel.app/)**  
-*(You can deploy easily on Vercel, Netlify, or GitHub Pages.)*
+- 🔄 Toggle between **Login** and **Signup** forms using React state  
+- 🧠 Built with React Hooks (`useState`)  
+- 🎨 Simple and modern UI with inline styling  
+- 🧱 Component-based clean structure (`Login`, `Signup`, `App`)  
+- ⚡ No page reload — smooth transitions  
+- 🪄 Easy to expand with backend (Node.js / Firebase)
+
+---
+
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|-------------|----------|
+| **React.js** ⚛️ | UI rendering and state management |
+| **CSS3** 🎨 | Styling and responsiveness |
+| **JavaScript (ES6)** 💡 | Core logic and interactivity |
+| **Vite** ⚡ | Fast React development environment |
 
 ---
 
@@ -20,14 +35,10 @@ Perfect as a starter template for any authentication-based project.
 
 ---
 
-## ✨ Features
+## 🚀 Live Demo
 
-- 🔄 Toggle between **Login** and **Signup** forms using React state  
-- 🧠 Built with React Hooks (`useState`)  
-- 🎨 Simple and modern UI with inline styling  
-- 🧱 Component-based clean structure (`Login`, `Signup`, `App`)  
-- ⚡ No page reload — smooth transitions  
-- 🪄 Easy to expand with backend (Node.js / Firebase)
+👉 **[View Live on Vercel](https://login-signup-toggle-app.vercel.app/)**  
+*(You can deploy easily on Vercel, Netlify, or GitHub Pages.)*
 
 ---
 
@@ -65,22 +76,17 @@ Perfect as a starter template for any authentication-based project.
 ```
 ---
 
-## 🛠️ Technologies Used
-
-| Technology | Purpose |
-|-------------|----------|
-| **React.js** ⚛️ | UI rendering and state management |
-| **CSS3** 🎨 | Styling and responsiveness |
-| **JavaScript (ES6)** 💡 | Core logic and interactivity |
-| **Vite** ⚡ | Fast React development environment |
-
----
-
 ## 💡 How to Run Locally
 
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/login-signup-toggle-app.git
+2. **Install Dependencies:**
+   ```bash
+   npm install
+   npm run dev
+   ```
+---
 
 ## 👨‍💻 Developer
 

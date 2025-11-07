@@ -32,8 +32,8 @@ Perfect as a starter template for any authentication-based project.
 ---
 
 ## 📁 Folder Structure
-
-vite-project/
+```
+ vite-project/
 │
 ├── 📂 public/
 │ ├── bg.png
@@ -62,7 +62,7 @@ vite-project/
 ├── package-lock.json
 ├── vite.config.js
 └── README.md
-
+```
 ---
 
 ## 🛠️ Technologies Used

@@ -31,8 +31,6 @@ Perfect as a starter template for any authentication-based project.
 
 ![App Preview](./public/bg.png)
 
-*(💡 Tip: Add a screenshot of your app in the repo root as `preview.png` so it appears above.)*
-
 ---
 
 ## 🚀 Live Demo

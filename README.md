@@ -7,7 +7,7 @@ Perfect as a starter template for any authentication-based project.
 
 ## ✨ Features
 
-- 🔄 Toggle between **Login** and **Signup** forms using React state  
+- 🔄 Toggle between **Login** and **Signup** forms using React state   
 - 🧠 Built with React Hooks (`useState`)  
 - 🎨 Simple and modern UI with inline styling  
 - 🧱 Component-based clean structure (`Login`, `Signup`, `App`)  
